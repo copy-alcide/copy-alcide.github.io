@@ -3,7 +3,7 @@
   <title>Copy&#39;s Blog</title>
   <icon>https://copy-alcide.github.io/favicon_icon/favicon_cus_32.png</icon>
   <subtitle>拷貝的個人博客</subtitle>
-  <link href="https://copy-alcide.github.io/atom.xml" rel="self"/>
+  <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
   <updated>2022-03-13T04:44:21.852Z</updated>
