@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Copy&#39;s Blog</title>
-  <icon>https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main/favicon_cus_32.png</icon>
+  
   <subtitle>拷貝的個人博客</subtitle>
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
