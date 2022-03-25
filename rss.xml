@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2022-03-19T10:07:09.502Z</updated>
+  <updated>2022-03-25T12:14:09.625Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「MMD 靜畫」椛邊新聞記者的下場</title>
+    <link href="https://copy-alcide.github.io/2022/03/25/MMDPic-20220325/"/>
+    <id>https://copy-alcide.github.io/2022/03/25/MMDPic-20220325/</id>
+    <published>2022-03-25T11:56:59.000Z</published>
+    <updated>2022-03-25T12:14:09.625Z</updated>
+    
+    <content type="html"><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaMomiji_20220325.png" style="zoom:50%;" /><p>「你這無良記者，約我出去玩就爲了寫那些花邊新聞是吧！」</p><p>這張圖是因爲奇怪新聞認真起來之後的椛椛，似乎是各種二次創作中很常見的情節（笑）。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">ときり MikuMikuDance用　東方Project アールビット＆Kome-ken式改変「犬走椛」モデルデータ</span><br><span class="line">ゴマボウ 椛の大刀</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;img src=&quot;https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaMomiji_20220325.png&quot; style=&quot;zoom:50%;&quot; /&gt;
+
+&lt;p&gt;「你這無良記者，約我出去玩就爲了寫那些花邊新聞是吧！」&lt;/p&gt;
+&lt;p&gt;這張圖是因爲奇怪新聞認真起來之後的椛椛，似乎是各種二次創作中很常見的情節（笑）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="犬走椛" scheme="https://copy-alcide.github.io/tags/%E7%8A%AC%E8%B5%B0%E6%A4%9B/"/>
+    
+    <category term="文椛" scheme="https://copy-alcide.github.io/tags/%E6%96%87%E6%A4%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>「MMD 靜畫」質問</title>
