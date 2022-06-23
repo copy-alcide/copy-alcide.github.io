@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2022-05-23T15:32:37.065Z</updated>
+  <updated>2022-06-23T11:15:19.856Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「MMD 靜畫」每月 23 文之日（2022.06）</title>
+    <link href="https://copy-alcide.github.io/2022/06/23/MMDPic-20220623/"/>
+    <id>https://copy-alcide.github.io/2022/06/23/MMDPic-20220623/</id>
+    <published>2022-06-23T10:35:37.000Z</published>
+    <updated>2022-06-23T11:15:19.856Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220623.png"></p><p>又是一月文之日，頭一次嘗試夜間場景，感覺這種情況照明會是重點。</p><p>自我覺得花了不少時間調整，希望效果會讓人滿意吧。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">AutoLuminous byそぼろ</span><br><span class="line">PanelLight  by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">不透明水彩風にするエフェクト by ikeno</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220623.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;又是一月文之日，頭一次嘗試夜間場景，感覺這種情況照明會是重點。&lt;/p&gt;
+&lt;p&gt;自我覺得花了不少時間調整，希望效果會讓人滿意吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+  </entry>
   
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.05）</title>
