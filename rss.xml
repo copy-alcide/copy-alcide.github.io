@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2022-07-23T04:28:45.456Z</updated>
+  <updated>2022-07-30T08:47:15.346Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「MMD 靜畫」偷笑</title>
+    <link href="https://copy-alcide.github.io/2022/07/30/MMDPic-20220730/"/>
+    <id>https://copy-alcide.github.io/2022/07/30/MMDPic-20220730/</id>
+    <published>2022-07-30T08:03:40.000Z</published>
+    <updated>2022-07-30T08:47:15.346Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Hatate_20220730.png"></p><p>之前在群聊裏看到砌磚裏面新出場的果果，超級可愛。嘗試模仿其中一張做了這個。</p><p>這次調整光照調整了好久，最終結果感覺還行……？</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「姫海棠はたて」モデルデータ</span><br><span class="line">歌奈斗 ケータイ</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">不透明水彩風にするエフェクト by ikeno</span><br><span class="line"> 発光エフェクト AutoLuminous by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Hatate_20220730.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;之前在群聊裏看到砌磚裏面新出場的果果，超級可愛。嘗試模仿其中一張做了這個。&lt;/p&gt;
+&lt;p&gt;這次調整光照調整了好久，最終結果感覺還行……？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.07）</title>
@@ -38,9 +65,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
@@ -92,9 +119,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
@@ -119,9 +146,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
@@ -147,13 +174,13 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
     
     <category term="記者組" scheme="https://copy-alcide.github.io/tags/%E8%A8%98%E8%80%85%E7%B5%84/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -179,9 +206,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
@@ -228,13 +255,13 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
     
     <category term="記者組" scheme="https://copy-alcide.github.io/tags/%E8%A8%98%E8%80%85%E7%B5%84/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -260,9 +287,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="犬走椛" scheme="https://copy-alcide.github.io/tags/%E7%8A%AC%E8%B5%B0%E6%A4%9B/"/>
     
@@ -292,13 +319,13 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
     
     <category term="記者組" scheme="https://copy-alcide.github.io/tags/%E8%A8%98%E8%80%85%E7%B5%84/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -326,11 +353,11 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
     <category term="犬走椛" scheme="https://copy-alcide.github.io/tags/%E7%8A%AC%E8%B5%B0%E6%A4%9B/"/>
     
@@ -362,13 +389,13 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
     
     <category term="記者組" scheme="https://copy-alcide.github.io/tags/%E8%A8%98%E8%80%85%E7%B5%84/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -394,9 +421,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="犬走椛" scheme="https://copy-alcide.github.io/tags/%E7%8A%AC%E8%B5%B0%E6%A4%9B/"/>
     
@@ -427,11 +454,11 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
     <category term="犬走椛" scheme="https://copy-alcide.github.io/tags/%E7%8A%AC%E8%B5%B0%E6%A4%9B/"/>
     
@@ -462,13 +489,13 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
     
     <category term="記者組" scheme="https://copy-alcide.github.io/tags/%E8%A8%98%E8%80%85%E7%B5%84/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -493,9 +520,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
@@ -520,13 +547,13 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
     
     <category term="記者組" scheme="https://copy-alcide.github.io/tags/%E8%A8%98%E8%80%85%E7%B5%84/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
