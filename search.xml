@@ -651,4 +651,26 @@
         <tag>東方Project</tag>
       </tags>
   </entry>
+  <entry>
+    <title>「MMD 靜畫」招待</title>
+    <url>/2022/09/03/MMDPic-20220903/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Miyoi_20220903.png"></p>
+<p>「這麼晚還還能來這的也就只有你一個了，每天都很辛苦嗎？」</p>
+<p>第一次做了四天狗之外角色的圖，選擇的是超新角色美宵。用的模型似乎也是僅有的一個，但是不妨礙美宵很可愛。</p>
+<p>這次製作過程簡直是光照地獄，各種調整才調成現在這樣，大概放了有十個點光源和兩個面光源，希望效果夠好。</p>
+<span id="more"></span>
+
+<!--More-->
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">たけ 奥野田美宵</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 割れ物皿セットver1.0</span><br><span class="line">必殺仕事P 夜雀庵</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>東方Project</tag>
+        <tag>奧野田美宵</tag>
+      </tags>
+  </entry>
 </search>
