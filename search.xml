@@ -369,6 +369,47 @@
       </tags>
   </entry>
   <entry>
+    <title>「MMD 靜畫」每月 23 文之日（2022.08）</title>
+    <url>/2022/08/23/MMDPic-20220823/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220823.png"></p>
+<p>好久沒有做攝影阿文的圖了，這次稍微嘗試了一下空中取材的感覺。</p>
+<p>這張圖背景的紅葉林意外的沒有很紙片的感覺，這個場景的這個問題在之前一直很明顯。會是光照的原因嗎？</p>
+<p>這張在 MMD 內部渲染的時候其實有點圖像問題，之後單獨用 PS 修了一下，不知道會不會很明顯。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><figcaption><span>text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">不透明水彩風にするエフェクト by ikeno</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>東方Project</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「MMD 靜畫」招待</title>
+    <url>/2022/09/03/MMDPic-20220903/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Miyoi_20220903.png"></p>
+<p>「這麼晚還能來這的也就只有你一個了，每天都這麼辛苦嗎？」</p>
+<p>第一次做了四天狗之外角色的圖，選擇的是超新角色美宵。用的模型似乎也是僅有的一個，但是不妨礙美宵很可愛。</p>
+<p>這次製作過程簡直是光照地獄，各種調整才調成現在這樣，大概放了有十個點光源和兩個面光源，希望效果夠好。</p>
+<span id="more"></span>
+
+<!--More-->
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">たけ 奥野田美宵</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 割れ物皿セットver1.0</span><br><span class="line">必殺仕事P 夜雀庵</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>東方Project</tag>
+        <tag>奧野田美宵</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021 年終文 - 巨變？未變？</title>
     <url>/2021/12/24/Other-20211224/</url>
     <content><![CDATA[<p>2021 年的最後一個週末。</p>
@@ -630,47 +671,6 @@
       </categories>
       <tags>
         <tag>雜記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「MMD 靜畫」每月 23 文之日（2022.08）</title>
-    <url>/2022/08/23/MMDPic-20220823/</url>
-    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220823.png"></p>
-<p>好久沒有做攝影阿文的圖了，這次稍微嘗試了一下空中取材的感覺。</p>
-<p>這張圖背景的紅葉林意外的沒有很紙片的感覺，這個場景的這個問題在之前一直很明顯。會是光照的原因嗎？</p>
-<p>這張在 MMD 內部渲染的時候其實有點圖像問題，之後單獨用 PS 修了一下，不知道會不會很明顯。</p>
-<span id="more"></span>
-
-<figure class="highlight plaintext"><figcaption><span>text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">不透明水彩風にするエフェクト by ikeno</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>MMD</category>
-      </categories>
-      <tags>
-        <tag>MMD</tag>
-        <tag>東方Project</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「MMD 靜畫」招待</title>
-    <url>/2022/09/03/MMDPic-20220903/</url>
-    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Miyoi_20220903.png"></p>
-<p>「這麼晚還能來這的也就只有你一個了，每天都這麼辛苦嗎？」</p>
-<p>第一次做了四天狗之外角色的圖，選擇的是超新角色美宵。用的模型似乎也是僅有的一個，但是不妨礙美宵很可愛。</p>
-<p>這次製作過程簡直是光照地獄，各種調整才調成現在這樣，大概放了有十個點光源和兩個面光源，希望效果夠好。</p>
-<span id="more"></span>
-
-<!--More-->
-
-<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">たけ 奥野田美宵</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 割れ物皿セットver1.0</span><br><span class="line">必殺仕事P 夜雀庵</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>MMD</category>
-      </categories>
-      <tags>
-        <tag>MMD</tag>
-        <tag>東方Project</tag>
-        <tag>奧野田美宵</tag>
       </tags>
   </entry>
 </search>
