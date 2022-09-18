@@ -673,4 +673,30 @@
         <tag>雜記</tag>
       </tags>
   </entry>
+  <entry>
+    <title>「MMD 靜畫」星月夜</title>
+    <url>/2022/09/19/MMDPic-20220919/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220919.png"></p>
+<blockquote>
+<p> 若此圖片在您的終端設備上觀感較差，請考慮切換另一顯示設備查看。</p>
+</blockquote>
+<p>是久違的記者組同框圖。中秋才過去不久，於是就想着做了張有些相關元素的。</p>
+<p>這張圖是最近包含嘗試的新東西最多的圖，製作流程上和之前的差別不小。第一次嘗試了用 PMX Editor 處理組合模型，第一次嘗試了主體角色完全不露正臉，第一次嘗試了大部分工作流程都使用 Remote Desktop 完成。比較諷刺的是整個工作流使用 RD 反而比在本地機器上工作更加舒適。</p>
+<p>這張圖製作的過程中問題也不少。也許是因爲現在在用的筆電熒幕素質很差，渲染出來之後得把圖片後期調整到看起來就跟褪色了一樣的程度才能在所有其他設備上觀感較好。不知在您的設備上表現如何。</p>
+<p>本來考慮到製作週期可能很長就想着在本月份文圖之後發，沒想到除去姿勢製作只花了 6 個小時左右就完成了，其中後 2 個小時還是在各種做後期補償，總之就是意外的快。也就不再拖延，直接發出來好了。感覺本月文圖相比這張會遜色不少。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「射命丸文」モデルデータ</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「姫海棠はたて」モデルデータ</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 串団子3種類ver1.0</span><br><span class="line">パンプニン ぼんぼりアクセサリ</span><br><span class="line">NOB 紅葉と広間</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight  Ver.1.4 by そぼろ</span><br><span class="line">発光エフェクトAutoLuminous Ver.4.2 by そぼろ</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>射命丸文</tag>
+        <tag>姬海棠果</tag>
+        <tag>記者組</tag>
+        <tag>東方Projcet</tag>
+      </tags>
+  </entry>
 </search>
