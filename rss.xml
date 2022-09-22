@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2022-09-18T16:26:05.580Z</updated>
+  <updated>2022-09-22T16:51:08.258Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「MMD 靜畫」每月 23 文之日（2022.09）</title>
+    <link href="https://copy-alcide.github.io/2022/09/23/MMDPic-20220923/"/>
+    <id>https://copy-alcide.github.io/2022/09/23/MMDPic-20220923/</id>
+    <published>2022-09-22T16:39:58.000Z</published>
+    <updated>2022-09-22T16:51:08.258Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220923.png"></p><p>今天是秋分，也許算是非常有文文風格的節氣。</p><p>說實話只不過是都很秋天罷了。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">ところてん36 万年筆と小物セット</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220923.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;今天是秋分，也許算是非常有文文風格的節氣。&lt;/p&gt;
+&lt;p&gt;說實話只不過是都很秋天罷了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>「MMD 靜畫」星月夜</title>
@@ -85,9 +112,9 @@
     <link href="https://copy-alcide.github.io/2022/08/23/MMDPic-20220823/"/>
     <id>https://copy-alcide.github.io/2022/08/23/MMDPic-20220823/</id>
     <published>2022-08-22T16:02:41.000Z</published>
-    <updated>2022-08-22T16:21:17.718Z</updated>
+    <updated>2022-08-22T16:21:20.206Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220823.png"></p><p>好久沒有做攝影阿文的圖了，這次稍微嘗試了一下空中取材的感覺。</p><p>這張圖背景的紅葉林意外的沒有很紙片的感覺，這個場景的這個問題在之前一直很明顯。會是光照的原因嗎？</p><p>這張在 MMD 內部渲染的時候其實有點圖像問題，之後單獨用 PS 修了一下，不知道會不會很明顯。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">不透明水彩風にするエフェクト by ikeno</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220823.png"></p><p>好久沒有做攝影阿文的圖了，這次稍微嘗試了一下空中取材的感覺。</p><p>這張圖背景的紅葉林意外的沒有很紙片的感覺，這個場景的這個問題在之前一直很明顯。會是光照的原因嗎？</p><p>這張在 MMD 內部渲染的時候其實有點圖像問題，之後單獨用 PS 修了一下，不知道會不會很明顯。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">不透明水彩風にするエフェクト by ikeno</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220823.png&quot;&gt;&lt;/p&gt;
@@ -103,6 +130,8 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
