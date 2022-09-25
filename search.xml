@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello, World!</title>
-    <url>/2020/06/26/HelloWorld/</url>
+    <url>/HelloWorld/</url>
     <content><![CDATA[<p>你好，世界！</p>
 <p>Hello, World!</p>
 ]]></content>
@@ -15,8 +15,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」情人節的記者合影</title>
-    <url>/2022/02/14/MMDPic-20220214/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220214.png" style="zoom: 50%;" />
+    <url>/MMDPic/2022/MMDPic-20220214/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220214.png" style="zoom: 50%;">
 
 <p>從機長老師那邊學會 MMD 之後第一個自己的作品，是稍微想象了一下記者組一起合影的場面之後做出來的東西。果然記者組超級棒啊（完全的個人感想）。</p>
 <span id="more"></span>
@@ -35,8 +35,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」取材中的思考</title>
-    <url>/2022/02/15/MMDPic-20220215/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220215.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220215/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220215.png" style="zoom:50%;">
 
 <p>花了幾個小時做出來的東西，感覺稍微有點偷懶了（大概）。</p>
 <span id="more"></span>
@@ -53,8 +53,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」春雪</title>
-    <url>/2022/02/19/MMDPic-20220219/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220219.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220219/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220219.png" style="zoom:50%;">
 
 <p>前幾日市內下了大雪，不知是因爲不久前就下過雨還是什麼，完全沒有積雪留下。</p>
 <p>總之這張就是記者組在春日雪中散步拍照的圖。</p>
@@ -77,8 +77,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」喝茶時間</title>
-    <url>/2022/02/27/MMDPic-20220227/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatateMomiji_20220227.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220227/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatateMomiji_20220227.png" style="zoom:50%;">
 
 <p>天狗們下班之後休息喝茶的時間，感覺會是很溫馨（也許）的場景。</p>
 <p>感覺休息的時候和關係好的朋友在一起喝茶聊天會很棒。</p>
@@ -102,8 +102,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」文椛的人裏散步</title>
-    <url>/2022/03/05/MMDPic-20220305/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaMomiji_20220305.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220305/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaMomiji_20220305.png" style="zoom:50%;">
 
 <p>即使下雨也還是在人裏散步的文椛。</p>
 <p>這次的下雨效果其實是用下雪效果器做出來的。</p>
@@ -124,8 +124,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」書寫</title>
-    <url>/2022/03/07/MMDPic-20220307/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220307.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220307/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220307.png" style="zoom:50%;">
 
 <p>一邊是在桌前寫信的文，一邊是靠在牆上發簡訊的果，兩位之間這樣大的時代差距出現在同一場景內似乎也是創作者們喜歡的主題。</p>
 <p>我也喜歡寫信，果然相比如今各種數字化通訊手段還是能帶來不一樣的感覺。</p>
@@ -147,8 +147,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」賞花</title>
-    <url>/2022/03/13/MMDPic-20220313/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Tengu_20220313.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220313/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Tengu_20220313.png" style="zoom:50%;">
 
 <p>春天也算是到了……吧？</p>
 <p>最近突然就變熱了，明明還在三月，之後似乎還會降溫。</p>
@@ -171,8 +171,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」質問</title>
-    <url>/2022/03/19/MMDPic-20220319/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220319.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220319/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220319.png" style="zoom:50%;">
 
 <p>文：「你這傢伙晚上睡覺的時候不僅有說夢話還一直在喊我的名字對吧？」</p>
 <p>大致是這樣的想象，果心底裏喜歡文但是不敢直接對她說出來的設定真的太棒了（笑）。</p>
@@ -192,8 +192,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」椛邊新聞記者的下場</title>
-    <url>/2022/03/25/MMDPic-20220325/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaMomiji_20220325.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220325/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaMomiji_20220325.png" style="zoom:50%;">
 
 <p>「你這無良記者，約我出去玩就爲了寫那些花邊新聞是吧！」</p>
 <p>這張圖是因爲奇怪新聞認真起來之後的椛椛，似乎是各種二次創作中很常見的情節（笑）。</p>
@@ -213,8 +213,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」取材與來自背後的擁抱</title>
-    <url>/2022/04/07/MMDPic-20220407/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220407.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220407/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220407.png" style="zoom:50%;">
 
 <p>即使是在取材也要貼貼的文果，感覺像這樣從背後抱住超級棒。</p>
 <span id="more"></span>
@@ -233,8 +233,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.04）</title>
-    <url>/2022/04/23/MMDPic-20220423/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220423.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220423/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220423.png" style="zoom:50%;">
 
 <p>每月 23 文之日！</p>
 <p>第一次的文之日圖。</p>
@@ -252,8 +252,8 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」天北線之旅</title>
-    <url>/2022/05/22/MMDPic-20220522/</url>
-    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220522.png" style="zoom:50%;" />
+    <url>/MMDPic/2022/MMDPic-20220522/</url>
+    <content><![CDATA[<img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220522.png" style="zoom:50%;">
 
 <p>一開始並沒有專門想做天北線的圖，找模型的時候正好看到了這個，於是就使用了一下。安別站急行天北似乎是不停的，這張應該是普通列車的場景吧。</p>
 <p>天北線的 キハ５５ 現在會在幻想鄉裏奔走着嗎？還在作爲急行服役着也說不定。</p>
@@ -274,7 +274,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.05）</title>
-    <url>/2022/05/23/MMDPic-20220523/</url>
+    <url>/MMDPic/2022/MMDPic-20220523/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220523.png"></p>
 <p>前兩天驚覺又要到文之日了，隨便糊了一張文圖出來。</p>
 <p>完全就是依靠腦子裏突然蹦出來的姿勢做的圖。</p>
@@ -293,7 +293,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.06）</title>
-    <url>/2022/06/23/MMDPic-20220623/</url>
+    <url>/MMDPic/2022/MMDPic-20220623/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220623.png"></p>
 <p>又是一月文之日，頭一次嘗試夜間場景，感覺這種情況照明會是重點。</p>
 <p>自我覺得花了不少時間調整，希望效果會讓人滿意吧。</p>
@@ -312,7 +312,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」展望</title>
-    <url>/2022/07/16/MMDPic-20220716/</url>
+    <url>/MMDPic/2022/MMDPic-20220716/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Megumu_20220716.png"></p>
 <p>第一次做龍龍的圖，憑着印象選了個星空的場景，不知道算不算是被完全做爛了的元素。</p>
 <p>不知爲何這張圖我的 PC 完全沒法渲染，每次嘗試都會讓機器黑屏。麻煩一位友人開了虛擬機用遠程桌面連上才完成渲染工作，非常感謝。</p>
@@ -331,7 +331,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.07）</title>
-    <url>/2022/07/23/MMDPic-20220723/</url>
+    <url>/MMDPic/2022/MMDPic-20220723/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220723.png"></p>
 <p>每年一次的文月文日！</p>
 <p>稍微嘗試了一下最近那張 Meme 圖中擺出「く」這種姿勢的阿文，雖然似乎並沒有太做出來。</p>
@@ -351,7 +351,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」偷笑</title>
-    <url>/2022/07/30/MMDPic-20220730/</url>
+    <url>/MMDPic/2022/MMDPic-20220730/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Hatate_20220730.png"></p>
 <p>之前在群聊裏看到砌磚裏面新出場的果果，超級可愛。嘗試模仿其中一張做了這個。</p>
 <p>這次調整光照調整了好久，最終結果感覺還行……？</p>
@@ -370,7 +370,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」每月 23 文之日（2022.08）</title>
-    <url>/2022/08/23/MMDPic-20220823/</url>
+    <url>/MMDPic/2022/MMDPic-20220823/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220823.png"></p>
 <p>好久沒有做攝影阿文的圖了，這次稍微嘗試了一下空中取材的感覺。</p>
 <p>這張圖背景的紅葉林意外的沒有很紙片的感覺，這個場景的這個問題在之前一直很明顯。會是光照的原因嗎？</p>
@@ -390,7 +390,7 @@
   </entry>
   <entry>
     <title>「MMD 靜畫」招待</title>
-    <url>/2022/09/03/MMDPic-20220903/</url>
+    <url>/MMDPic/2022/MMDPic-20220903/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Miyoi_20220903.png"></p>
 <p>「這麼晚還能來這的也就只有你一個了，每天都這麼辛苦嗎？」</p>
 <p>第一次做了四天狗之外角色的圖，選擇的是超新角色美宵。用的模型似乎也是僅有的一個，但是不妨礙美宵很可愛。</p>
@@ -411,8 +411,53 @@
       </tags>
   </entry>
   <entry>
+    <title>「MMD 靜畫」星月夜</title>
+    <url>/MMDPic/2022/MMDPic-20220919/</url>
+    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220919.png"></p>
+<blockquote>
+<p> 若此圖片在您的終端設備上觀感較差，請考慮切換另一顯示設備查看。</p>
+</blockquote>
+<p>是久違的記者組同框圖。中秋才過去不久，於是就想着做了張有些相關元素的。</p>
+<p>這張圖是最近包含嘗試的新東西最多的圖，製作流程上和之前的差別不小。第一次嘗試了用 PMX Editor 處理組合模型，第一次嘗試了主體角色完全不露正臉，第一次嘗試了大部分工作流程都使用 Remote Desktop 完成。比較諷刺的是整個工作流使用 RD 反而比在本地機器上工作更加舒適。</p>
+<p>這張圖製作的過程中問題也不少。也許是因爲現在在用的筆電熒幕素質很差，渲染出來之後得把圖片後期調整到看起來就跟褪色了一樣的程度才能在所有其他設備上觀感較好。不知在您的設備上表現如何。</p>
+<p>本來考慮到製作週期可能很長就想着在本月份文圖之後發，沒想到除去姿勢製作只花了 6 個小時左右就完成了，其中後 2 個小時還是在各種做後期補償，總之就是意外的快。也就不再拖延，直接發出來好了。感覺本月文圖相比這張會遜色不少。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「射命丸文」モデルデータ</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「姫海棠はたて」モデルデータ</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 串団子3種類ver1.0</span><br><span class="line">パンプニン ぼんぼりアクセサリ</span><br><span class="line">NOB 紅葉と広間</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight  Ver.1.4 by そぼろ</span><br><span class="line">発光エフェクトAutoLuminous Ver.4.2 by そぼろ</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>射命丸文</tag>
+        <tag>姬海棠果</tag>
+        <tag>記者組</tag>
+        <tag>東方Projcet</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「MMD 靜畫」每月 23 文之日（2022.09）</title>
+    <url>/MMDPic/2022/MMDPic-20220923/</url>
+    <content><![CDATA[<p><img src="/.io//2022/MMDPic-20220923/Aya_20220923.png"></p>
+<p>今天是秋分，也許算是非常有文文風格的節氣。</p>
+<p>說實話只不過是都很秋天罷了。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">ところてん36 万年筆と小物セット</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>東方Project</tag>
+        <tag>射命丸文</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021 年終文 - 巨變？未變？</title>
-    <url>/2021/12/24/Other-20211224/</url>
+    <url>/Other/2021/Other-20211224/</url>
     <content><![CDATA[<p>2021 年的最後一個週末。</p>
 <p>前幾天看到了別人的年終文，於是自己也想寫一篇。這一年我也許算是做了不少，但是又感覺基本什麼都沒做；我的生活似乎是變了很多，但是又似乎什麼都沒變。</p>
 <span id="more"></span>
@@ -458,7 +503,7 @@
   </entry>
   <entry>
     <title>普通的東方 Project 同人作品推薦</title>
-    <url>/2022/04/18/Other-20220418/</url>
+    <url>/Other/2022/Other-20220418/</url>
     <content><![CDATA[<p>今日中午在通知中心裏看到來自機長老師的提及，邀請來參加個推薦東方同人作品的「快閃」活動。說實話我不大懂「快閃」是個什麼東西。我這人吧，快是快不起來，閃吧最多等年紀大了閃個腰，總之隨便寫篇文發出來好了。</p>
 <p>接下來就是個人想要推薦的一些同人作品，使用的標題都是來自我能夠找到的簡體中文譯文。</p>
 <span id="more"></span>
@@ -524,7 +569,7 @@
   </entry>
   <entry>
     <title>「攝鐵」2021 年 10 月 2 日 銅陵市勝利路道口大修</title>
-    <url>/2021/10/30/RailShot-20211030/</url>
+    <url>/RailShot/2021/RailShot-20211030/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AYA00134.JPG" alt="主圖"></p>
 <div style="text-align:center">秦嶺 GC-270 軌道車</div>
 
@@ -551,7 +596,7 @@
   </entry>
   <entry>
     <title>「雜記」2020 年 7 月 13 日</title>
-    <url>/2020/07/13/Record-20200713/</url>
+    <url>/Record/2020/Record-20200713/</url>
     <content><![CDATA[<p>​        今日乘公車，人很多。路上上來一老一小，老人大概 60 歲出頭，孩子大概 4 到 5 歲的樣子。</p>
 <p>​        由於坐在最後一排，我並看不清他們上車之後的情況。大約半分鐘後，兩人在下車門門口處站定，我也得以完全看到他們。公車有些顛簸，老人扶著一旁的柱子，孩子則大抵是牽著老人的手才站穩的。</p>
 <p>​        車停靠一站之後，人少了些，而座位則是空出了幾個。我忽然聽到孩子的叫聲，喊著：“我要坐那邊！”視野由窗外轉回車廂內，看到孩子拉著老人的手，又指著上方一個空出的座位。那個座位靠窗邊，而靠通道的一邊則坐著一位中年的女同志。她聽到孩子這樣說，就準備站起身來讓開。</p>
@@ -572,7 +617,7 @@
   </entry>
   <entry>
     <title>「雜記」2020 年 9 月 19 日</title>
-    <url>/2020/09/19/Record-20200919/</url>
+    <url>/Record/2020/Record-20200919/</url>
     <content><![CDATA[<p>​    昨日中午下雨，因而決定乘公車回家。人不多，車廂前半部分基本是空的。我找了個靠後門的位置坐下。</p>
 <p>​    大約兩站過後，上來了三位穿着附近某初中校服的學生。他們吵嚷着，聚到了後車門邊——我的正前方。我注意到他們的校服都非常新，興許是剛入學的初一新生吧。</p>
 <p>​    「現在校服都發的這麼快了嗎……」我這樣想着，把目光投向窗外，看着自己異常熟悉的街景。</p>
@@ -602,7 +647,7 @@
   </entry>
   <entry>
     <title>「雜記」2020 年 9 月 25 日</title>
-    <url>/2020/09/25/Record-20200925/</url>
+    <url>/Record/2020/Record-20200925/</url>
     <content><![CDATA[<p>​    從公車上走下，踩上積了一層薄薄雨水的柏油路，鞋底與路面的親密接觸發出幾聲水響。</p>
 <p>​    我看着細雨中週遭的一切，而一切都是那樣的平常。正當我準備繼續前行之時，從後方隱隱約約傳來些許特殊的聲音，雖然聲音並不大，但卻在汽車發動機的轟鳴聲中格外的引人注意。</p>
 <p>​    我駐足，轉身，看向後方。我看見了一位老漢，一位拉板車的老漢。他在車流中走着，牽引着身後的板車爬上這讓騎自行車者都會感到吃力的斜坡。</p>
@@ -624,7 +669,7 @@
   </entry>
   <entry>
     <title>「雜記」2020 年 10 月 14 日</title>
-    <url>/2020/10/14/Record-20201014/</url>
+    <url>/Record/2020/Record-20201014/</url>
     <content><![CDATA[<p>​    說實話，我做夢也不會想到，自己在高中第一次遲到會是在第一次月考的第一場考試這種場合。</p>
 <p>​    今日中午下雨，想到下午就要月考，略微提前一些出了門。在出門前我往包裡塞了些零錢，想：「這樣即使公車那邊出問題也不用擔心了，還有出租車可以救急。」</p>
 <p>​    事實證明，當時的我是對的。</p>
@@ -657,7 +702,7 @@
   </entry>
   <entry>
     <title>「雜記」2021 年 01 月 23 日</title>
-    <url>/2021/01/23/Record-20210123/</url>
+    <url>/Record/2021/Record-20210123/</url>
     <content><![CDATA[<p>​    我也不知道是自己運氣不好還是如何，見到的事一次比一次奇怪……</p>
 <p>​    昨日中午回家，半路上有那種網絡租賃電單車的停放點。過了馬路之後，看到不遠處停放點那裡有兩個初中生，一個手裡拿着智慧型手機，似乎是在通過平台租車。我本來也不想去關注這種事，但接下來的事實在是超出了我的預料。</p>
 <span id="more"></span>
@@ -672,51 +717,6 @@
       </categories>
       <tags>
         <tag>雜記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「MMD 靜畫」星月夜</title>
-    <url>/2022/09/19/MMDPic-20220919/</url>
-    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//AyaHatate_20220919.png"></p>
-<blockquote>
-<p> 若此圖片在您的終端設備上觀感較差，請考慮切換另一顯示設備查看。</p>
-</blockquote>
-<p>是久違的記者組同框圖。中秋才過去不久，於是就想着做了張有些相關元素的。</p>
-<p>這張圖是最近包含嘗試的新東西最多的圖，製作流程上和之前的差別不小。第一次嘗試了用 PMX Editor 處理組合模型，第一次嘗試了主體角色完全不露正臉，第一次嘗試了大部分工作流程都使用 Remote Desktop 完成。比較諷刺的是整個工作流使用 RD 反而比在本地機器上工作更加舒適。</p>
-<p>這張圖製作的過程中問題也不少。也許是因爲現在在用的筆電熒幕素質很差，渲染出來之後得把圖片後期調整到看起來就跟褪色了一樣的程度才能在所有其他設備上觀感較好。不知在您的設備上表現如何。</p>
-<p>本來考慮到製作週期可能很長就想着在本月份文圖之後發，沒想到除去姿勢製作只花了 6 個小時左右就完成了，其中後 2 個小時還是在各種做後期補償，總之就是意外的快。也就不再拖延，直接發出來好了。感覺本月文圖相比這張會遜色不少。</p>
-<span id="more"></span>
-
-<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「射命丸文」モデルデータ</span><br><span class="line">歌奈斗 MikuMikuDance用　東方Project 「姫海棠はたて」モデルデータ</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 串団子3種類ver1.0</span><br><span class="line">パンプニン ぼんぼりアクセサリ</span><br><span class="line">NOB 紅葉と広間</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight  Ver.1.4 by そぼろ</span><br><span class="line">発光エフェクトAutoLuminous Ver.4.2 by そぼろ</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>MMD</category>
-      </categories>
-      <tags>
-        <tag>MMD</tag>
-        <tag>射命丸文</tag>
-        <tag>姬海棠果</tag>
-        <tag>記者組</tag>
-        <tag>東方Projcet</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「MMD 靜畫」每月 23 文之日（2022.09）</title>
-    <url>/2022/09/23/MMDPic-20220923/</url>
-    <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20220923.png"></p>
-<p>今天是秋分，也許算是非常有文文風格的節氣。</p>
-<p>說實話只不過是都很秋天罷了。</p>
-<span id="more"></span>
-
-<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">ところてん36 万年筆と小物セット</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>MMD</category>
-      </categories>
-      <tags>
-        <tag>MMD</tag>
-        <tag>東方Project</tag>
-        <tag>射命丸文</tag>
       </tags>
   </entry>
 </search>
