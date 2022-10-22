@@ -761,4 +761,23 @@
         <tag>衍思</tag>
       </tags>
   </entry>
+  <entry>
+    <title>「MMD 靜畫」每月 23 文之日</title>
+    <url>/MMDPic/2022/MMDPic-20221023/</url>
+    <content><![CDATA[<p><img src="https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20221023.png&default=https://cdn.jsdelivr.net/gh/copy-alcide/CopyBlogImage@main//Aya_20221023.png"></p>
+<p>又是每月的文圖。</p>
+<p>感覺最近幾次的圖都有些暗了，下次得調整一下。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.0.91</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>MMD</tag>
+        <tag>東方Project</tag>
+        <tag>射命丸文</tag>
+      </tags>
+  </entry>
 </search>
