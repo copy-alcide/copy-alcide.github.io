@@ -797,4 +797,24 @@
         <tag>衍思</tag>
       </tags>
   </entry>
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日（2022.12）</title>
+    <url>/MMDPic/2022/MMDPic-20221223/</url>
+    <content><![CDATA[<p><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20221223.png&default=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20221223.png"></p>
+<p>每月文圖已經快成爲防止技能生疏而做的了，最近各種意義上都確實有些忙。</p>
+<p>這次是想做成手擋陽光的姿勢，但是加上直射的光源之後指節部分的陰影就變得有點看不到了，就跟手伸直着一樣。明年有時間了還是要好好看看 AbsoluteShadow 之類的工具怎麼用，渲染技術也得提高些。</p>
+<p>這次就不到處發圖了。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MMD</category>
+      </categories>
+      <tags>
+        <tag>東方Project</tag>
+        <tag>MMD</tag>
+        <tag>射命丸文</tag>
+      </tags>
+  </entry>
 </search>
