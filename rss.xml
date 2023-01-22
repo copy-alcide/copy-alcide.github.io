@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-01-15T10:33:57.168Z</updated>
+  <updated>2023-01-22T16:46:52.077Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日（2023.01）</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230123/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230123/</id>
+    <published>2023-01-22T16:32:15.000Z</published>
+    <updated>2023-01-22T16:46:52.077Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20230123.png&default=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20230123.png"></p><p>簡單的鐵道阿文圖。</p><p>不知道因爲什麼 ikbokeh 在這張圖上罷工了，於是嘗試了一種徹底不同的渲染風格。</p><p>遠景因爲場景問題很是空曠，最後手動栽了十幾棵樹。 </p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">てんぽく MMD鉄道モデル「北海道乗降場各種」</span><br><span class="line">キサノキ式キハ22</span><br><span class="line">asado ヒサカキセット</span><br><span class="line">Oyama 低木1</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">ikeno 不透明水彩風にするエフェクト</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20230123.png&amp;default=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20230123.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;簡單的鐵道阿文圖。&lt;/p&gt;
+&lt;p&gt;不知道因爲什麼 ikbokeh 在這張圖上罷工了，於是嘗試了一種徹底不同的渲染風格。&lt;/p&gt;
+&lt;p&gt;遠景因爲場景問題很是空曠，最後手動栽了十幾棵樹。 &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>影像 | 新年初雪世間編</title>
@@ -108,34 +134,6 @@
 &lt;p&gt;每月文圖已經快成爲防止技能生疏而做的了，最近各種意義上都確實有些忙。&lt;/p&gt;
 &lt;p&gt;這次是想做成手擋陽光的姿勢，但是加上直射的光源之後指節部分的陰影就變得有點看不到了，就跟手伸直着一樣。明年有時間了還是要好好看看 AbsoluteShadow 之類的工具怎麼用，渲染技術也得提高些。&lt;/p&gt;
 &lt;p&gt;這次就不到處發圖了。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 每月 23 文之日（2022.11）</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2022/MMDPic-20221123/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2022/MMDPic-20221123/</id>
-    <published>2022-11-22T16:01:54.000Z</published>
-    <updated>2022-11-22T16:09:43.724Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20221123.png&default=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20221123.png"></p><p>又是每個月的文之日圖。</p><p>雖然上次說要調整暗處過暗的問題，這次相機機身和柱子快要分不清似乎是真沒什麼辦法了，就連不加渲染的情況下都不怎麼看得出。</p><p>不論如何至少是嘗試了。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20221123.png&amp;default=https://raw.githubusercontent.com/copy-alcide/CopyBlogImage/main/Aya_20221123.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;又是每個月的文之日圖。&lt;/p&gt;
-&lt;p&gt;雖然上次說要調整暗處過暗的問題，這次相機機身和柱子快要分不清似乎是真沒什麼辦法了，就連不加渲染的情況下都不怎麼看得出。&lt;/p&gt;
-&lt;p&gt;不論如何至少是嘗試了。&lt;/p&gt;</summary>
     
     
     
