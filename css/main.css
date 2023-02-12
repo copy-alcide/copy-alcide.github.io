@@ -182,7 +182,7 @@ body {
 body {
   background: var(--body-bg-color);
   color: var(--text-color);
-  font-family: NotoSerifCJKtc-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: GenYoMinTW-Medium, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1em;
   line-height: 2;
   min-height: 100%;
@@ -195,7 +195,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: NotoSerifCJKtc-Bold, NotoSerifCJKtc-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: GenYoMinTW-Bold, GenYoMinTW-Medium, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -1199,7 +1199,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: NotoSerifCJKtc-Bold, NotoSerifCJKtc-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: GenYoMinTW-Bold, GenYoMinTW-Medium, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   margin: 0;
@@ -1872,7 +1872,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: NotoSerifTC-Regular, NotoSerifCJKtc-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: GenYoMinTW-Medium, GenYoMinTW-Medium, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2059,7 +2059,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: NotoSerifTC-Regular, NotoSerifCJKtc-Regular, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: GenYoMinTW-Medium, GenYoMinTW-Medium, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2719,7 +2719,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #1d2b66;
+  background: #615366;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2740,14 +2740,20 @@ mark.search-keyword {
   white-space: nowrap;
 }
 @font-face {
-  font-family: 'NotoSerifCJKtc-Regular';
-  src: url("../webfonts/NotoSerifCJKtc-Regular.woff") format('woff');
+  font-family: 'GenYoMinTW-Regular';
+  src: url("../webfonts/GenYoMinTW-Regular.woff") format('woff');
   font-weight: regular;
   font-style: normal;
 }
 @font-face {
-  font-family: 'NotoSerifCJKtc-Bold';
-  src: url("../webfonts/NotoSerifCJKtc-Bold.woff") format('woff');
+  font-family: 'GenYoMinTW-Medium';
+  src: url("../webfonts/GenYoMinTW-Medium.woff") format('woff');
+  font-weight: regular;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GenYoMinTW-Bold';
+  src: url("../webfonts/GenYoMinTW-Bold.woff") format('woff');
   font-weight: bold;
   font-style: normal;
 }
