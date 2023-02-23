@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-02-11T12:06:28.328Z</updated>
+  <updated>2023-02-23T05:13:24.625Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230223/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230223/</id>
+    <published>2023-02-23T05:02:10.000Z</published>
+    <updated>2023-02-23T05:13:24.625Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png"></p><p>第一次嘗試這種和圖片外發生直接互動的內容，自己感覺還是蠻不錯的。</p><p>製作過程中調整了視野角才達成這種縱深感比較強的效果，預設的數值效果並不是很好。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">追憶の機械人形 洋菓子＆飲料セット</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;第一次嘗試這種和圖片外發生直接互動的內容，自己感覺還是蠻不錯的。&lt;/p&gt;
+&lt;p&gt;製作過程中調整了視野角才達成這種縱深感比較強的效果，預設的數值效果並不是很好。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方 Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9-Project/"/>
+    
+  </entry>
   
   <entry>
     <title>MMD 靜畫 | 每月 23 文之日（2023.01）</title>
@@ -117,34 +144,6 @@
     <category term="其他" scheme="https://copy-alcide.github.io/tags/%E5%85%B6%E4%BB%96/"/>
     
     <category term="年終文" scheme="https://copy-alcide.github.io/tags/%E5%B9%B4%E7%B5%82%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 每月 23 文之日（2022.12）</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2022/MMDPic-20221223/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2022/MMDPic-20221223/</id>
-    <published>2022-12-23T00:36:43.000Z</published>
-    <updated>2023-02-11T12:23:23.355Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2022/Aya_20221223.png&default=https://copy-alcide.github.io/post-images/MMDPic-2022/Aya_20221223.png"></p><p>每月文圖已經快成爲防止技能生疏而做的了，最近各種意義上都確實有些忙。</p><p>這次是想做成手擋陽光的姿勢，但是加上直射的光源之後指節部分的陰影就變得有點看不到了，就跟手伸直着一樣。明年有時間了還是要好好看看 AbsoluteShadow 之類的工具怎麼用，渲染技術也得提高些。</p><p>這次就不到處發圖了。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">mato.sus304 OPTLETデジタル一眼レフカメラセット_v0.8</span><br><span class="line">追憶の機械人形 ヤツメウナギの蒲焼き</span><br><span class="line">キャベツ鉢 串団子3種類ver1.0</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Ray-MMD by Rui</span><br><span class="line">dPostPointLight_v1.00 by 極北P</span><br><span class="line">面光源エフェクト PanelLight by そぼろ</span><br><span class="line">ikBokeh_v020a by ikeno</span><br><span class="line">MikuMikuEffect用ディフュージョンフィルタ by そぼろ</span><br><span class="line">Toon_RC by RedialC</span><br><span class="line">RayMMD用のマテリアル24種類 by 世界最弱のサーモントラウト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2022/Aya_20221223.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2022/Aya_20221223.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;每月文圖已經快成爲防止技能生疏而做的了，最近各種意義上都確實有些忙。&lt;/p&gt;
-&lt;p&gt;這次是想做成手擋陽光的姿勢，但是加上直射的光源之後指節部分的陰影就變得有點看不到了，就跟手伸直着一樣。明年有時間了還是要好好看看 AbsoluteShadow 之類的工具怎麼用，渲染技術也得提高些。&lt;/p&gt;
-&lt;p&gt;這次就不到處發圖了。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
