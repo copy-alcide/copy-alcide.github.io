@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-04-22T16:32:14.683Z</updated>
+  <updated>2023-05-01T09:49:37.529Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>影像 | Industrial Nature</title>
+    <link href="https://copy-alcide.github.io/Photography/2023/Photography-20230501/"/>
+    <id>https://copy-alcide.github.io/Photography/2023/Photography-20230501/</id>
+    <published>2023-05-01T09:44:02.000Z</published>
+    <updated>2023-05-01T09:49:37.529Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00710.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00710.JPG"></p><p>越走越向偏僻之所去，前方碎成餅狀的水泥路會引向何方？</p><p>卻最終回到了熟悉的地區。</p><span id="more"></span><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00712.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00712.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00719.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00719.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00720.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00720.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00740.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00740.JPG"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00710.JPG&amp;default=https://copy-alcide.github.io/post-images/Photography-20230501/0501-ILCE-7C-AYA00710.JPG&quot;&gt;&lt;/p&gt;
+&lt;p&gt;越走越向偏僻之所去，前方碎成餅狀的水泥路會引向何方？&lt;/p&gt;
+&lt;p&gt;卻最終回到了熟悉的地區。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="影像" scheme="https://copy-alcide.github.io/categories/%E5%BD%B1%E5%83%8F/"/>
+    
+    <category term="世間" scheme="https://copy-alcide.github.io/categories/%E5%BD%B1%E5%83%8F/%E4%B8%96%E9%96%93/"/>
+    
+    
+    <category term="影像" scheme="https://copy-alcide.github.io/tags/%E5%BD%B1%E5%83%8F/"/>
+    
+    <category term="世間" scheme="https://copy-alcide.github.io/tags/%E4%B8%96%E9%96%93/"/>
+    
+  </entry>
   
   <entry>
     <title>MMD 靜畫 | 每月 23 文之日（2023.04）</title>
@@ -124,33 +151,6 @@
     <category term="世間" scheme="https://copy-alcide.github.io/tags/%E4%B8%96%E9%96%93/"/>
     
     <category term="春日" scheme="https://copy-alcide.github.io/tags/%E6%98%A5%E6%97%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 每月 23 文之日（2023.02）</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230223/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230223/</id>
-    <published>2023-02-23T05:02:10.000Z</published>
-    <updated>2023-02-23T05:29:44.917Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png"></p><p>第一次嘗試這種和圖片外發生直接互動的內容，自己感覺還是蠻不錯的。</p><p>製作過程中調整了視野角才達成這種縱深感比較強的效果，預設的數值效果並不是很好。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">追憶の機械人形 洋菓子＆飲料セット</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230223.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;第一次嘗試這種和圖片外發生直接互動的內容，自己感覺還是蠻不錯的。&lt;/p&gt;
-&lt;p&gt;製作過程中調整了視野角才達成這種縱深感比較強的效果，預設的數值效果並不是很好。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-    <category term="東方 Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9-Project/"/>
     
   </entry>
   
