@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-05-01T10:06:43.466Z</updated>
+  <updated>2023-05-22T16:30:05.523Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日（2023.05）</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230523/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230523/</id>
+    <published>2023-05-22T16:14:40.000Z</published>
+    <updated>2023-05-22T16:30:05.523Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230523.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230523.png"></p><p>最近幾個月也是一直在讀書，可能是高中三年閱讀量最大的一段時間，有時候也確實就像這樣坐在地上靠着什麼讀。</p><p>來自 14 與 16 歲舊筆電的最後一張 MMD 靜畫，雖然渲染部分已經和這倆沒什麼關係了。下個月新機再見。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">モノゾフ モブメガネ2</span><br><span class="line">とりそば インテリア用古書セット</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230523.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230523.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;最近幾個月也是一直在讀書，可能是高中三年閱讀量最大的一段時間，有時候也確實就像這樣坐在地上靠着什麼讀。&lt;/p&gt;
+&lt;p&gt;來自 14 與 16 歲舊筆電的最後一張 MMD 靜畫，雖然渲染部分已經和這倆沒什麼關係了。下個月新機再見。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+  </entry>
   
   <entry>
     <title>影像 | Industrial Nature</title>
@@ -64,9 +91,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -91,9 +118,9 @@
     
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -124,33 +151,6 @@
     <category term="虛構" scheme="https://copy-alcide.github.io/tags/%E8%99%9B%E6%A7%8B/"/>
     
     <category term="鐵道" scheme="https://copy-alcide.github.io/tags/%E9%90%B5%E9%81%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>影像 | 春です。</title>
-    <link href="https://copy-alcide.github.io/Photography/2023/Photography-20230310/"/>
-    <id>https://copy-alcide.github.io/Photography/2023/Photography-20230310/</id>
-    <published>2023-03-10T12:23:24.000Z</published>
-    <updated>2023-03-10T12:42:05.897Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00661.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00661.JPG"></p><span id="more"></span><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00664.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00664.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00666.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00666.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00667.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00667.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00677.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00677.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00689.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00689.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00702.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00702.JPG"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00706.JPG&default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00706.JPG"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00661.JPG&amp;default=https://copy-alcide.github.io/post-images/Photography-20230310/0309-ILCE-7C-AYA00661.JPG&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="影像" scheme="https://copy-alcide.github.io/categories/%E5%BD%B1%E5%83%8F/"/>
-    
-    <category term="世間" scheme="https://copy-alcide.github.io/categories/%E5%BD%B1%E5%83%8F/%E4%B8%96%E9%96%93/"/>
-    
-    
-    <category term="影像" scheme="https://copy-alcide.github.io/tags/%E5%BD%B1%E5%83%8F/"/>
-    
-    <category term="世間" scheme="https://copy-alcide.github.io/tags/%E4%B8%96%E9%96%93/"/>
-    
-    <category term="春日" scheme="https://copy-alcide.github.io/tags/%E6%98%A5%E6%97%A5/"/>
     
   </entry>
   
