@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-05-22T16:30:05.523Z</updated>
+  <updated>2023-06-23T07:41:24.626Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230623/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230623/</id>
+    <published>2023-06-23T07:34:48.000Z</published>
+    <updated>2023-06-23T07:41:24.626Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png"></p><p>怎麼說呢……本來確實想着是在新機上做這張圖的，但是似乎是由於 Zen 4 處理器產能出現了問題，預計發貨時間直接被推到了 21 號，情急之下直接選擇了採用舊方式完成這張圖。</p><p>最終新機器直接在 18 號就到了我的手上，當然這就是後話了。</p><p>所以……這個才是舊機的最後一張靜畫。</p><p>不論如何新機總算是拿到了，這幾天用着很舒服，希望能幫助我產出更多不同的作品吧。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">モノゾフ モブメガネ2</span><br><span class="line">とりそば インテリア用古書セット</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;怎麼說呢……本來確實想着是在新機上做這張圖的，但是似乎是由於 Zen 4 處理器產能出現了問題，預計發貨時間直接被推到了 21 號，情急之下直接選擇了採用舊方式完成這張圖。&lt;/p&gt;
+&lt;p&gt;最終新機器直接在 18 號就到了我的手上，當然這就是後話了。&lt;/p&gt;
+&lt;p&gt;所以……這個才是舊機的最後一張靜畫。&lt;/p&gt;
+&lt;p&gt;不論如何新機總算是拿到了，這幾天用着很舒服，希望能幫助我產出更多不同的作品吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>MMD 靜畫 | 每月 23 文之日（2023.05）</title>
@@ -35,11 +64,11 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -89,11 +118,11 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -116,41 +145,11 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>虛構 | 急行之夢</title>
-    <link href="https://copy-alcide.github.io/Fiction/2023/Fiction-20230318/"/>
-    <id>https://copy-alcide.github.io/Fiction/2023/Fiction-20230318/</id>
-    <published>2023-03-18T11:39:32.000Z</published>
-    <updated>2023-03-18T12:03:17.941Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>發表按<br>本文完成於 2 月 9 日，靈感來自於「スーツ交通」頻道的美佐島站相關視頻。本未想公開此文，卻又覺得這種事值得被更多人了解，便終於本文提及的此次調圖實施當天發表在此。<br>我想鐵道不僅是一種交通手段，更是時代與技術的折射，每年的調圖也都反映着各個地區一年來的變化，而這篇短文所要展現的變化相信您讀完就能體會到了。<br>不論如何，希望您能喜歡。</p></blockquote><p>這裏是北越急行北北線美佐島站。</p><p>完全密閉的候車室顯得有些壓抑。不鏽鋼的兩塊常閉式電動門反射着天花板上熒光燈冷冽的光，門上挖出的玻璃窗口用鋼絲加固着，靠近站台的部分自上而下都明顯地呈現出曾經沾染的水漬。幾塊從金屬中露出的混凝土牆壁顯示着自己最原始的灰白色，一些儀器箱和管線被螺栓固定其上。</p><p>大多數都是無人站乘車指南的各種貼紙略微帶來了些安心感，其中還有些手寫字跡和插圖。夾雜其間的些許幽默似乎有些溫情感，但又在如此環境之中顯得十分不協調。</p><span id="more"></span><p>看向靠裏一側的小房間，一條長凳貼牆放置，對面是塞滿各種圖書的三層書架，最上方放着寫有「北北迷你圖書角」的牌子。</p><p>要等的車還有一會才到站，不如先在這看些書。</p><p>……</p><p>突然響起了很大聲的提示音，之後便是聽不大懂的新潟話廣播。抬頭去看上方的電子告示板，視野意外的模糊，但是能很明顯看到「電車通過中」的字樣。</p><p>候車室內漸漸出現空氣從縫隙中涌入的聲音，愈來愈大的震動聲也隨之而來。似乎是什麼速度很快的車要通過了。按照時刻表來看，大概是只剩下每天半對的「超快速雪兔」。</p><p>但是聲音似乎漸漸變得響到了不正常的地步，也許去門旁能看到什麼少見的東西。</p><p>一道白光從玻璃另一側的隧道中射出，隨後出現的便是通過美佐島站的電車。</p><p>漆成白色的車體在隧道內白色燈光的照耀下顯得有些耀眼，嵌在其中的車窗透射出暖黃色的車內燈光。車窗下方的腰線是暗紅色和淺灰色的兩條，隨著列車的行駛又變成湛藍的一條。</p><p>但是奇怪的地方會不會有些太多了？</p><p>從視覺和聽覺上來說，列車的通過速度是高於 110 kph 的 —— 高於北越急行現存快速運行車次的最高時速，並且看起來還有六節多的車廂。北越急行唯一運行中的 HK 100 形電車最高也只能是有三節編組。</p><p>也就是說這不是 HK 100 形。</p><p>那這會是什麼呢？</p><p>隨着車尾的通過，流線型的先頭車展現得一清二楚。高處的駕駛室前窗周圍被漆成了灰色，兩顆紅色的尾燈並置其下。</p><p>這是 JR 西日本所屬的 681 系電車。</p><p>也就是說，這是 8 年前就已經廢止的特急白鷹。</p><p>被高速通過的列車排開的大量氣流從各種縫隙中瘋狂地向候車室內涌入，創造出尖銳而持久的嘯叫聲。</p><p>一切都是如此的不真實。</p><p>或者說…… 一切都是夢嗎？</p><p>特急白鷹也好，暴雪地區的超高規格線路也好，難道都只是夢嗎？</p><p>也許，也是時候結束一場整整 26 年的夢了。</p><hr><p>北越急行株式會社在 2023 年 3 月調圖中正式宣佈統合北北線所有班次列車爲各站停車。自 1997 年開業以來，北北線先後以日本唯一最高時速 160 kph 的窄軌特急「白鷹」和日本表定速度最高的快速列車超快速「雪兔」聞名。在這樣的高速運行整整 26 年後，面對幾乎再無可能的 JR 線直通和乘客數量的下滑，北越急行株式會社最終還是接受了北北線從日本大幹線之一淪爲地方鐵道線的命運。</p>]]></content>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;發表按&lt;br&gt;本文完成於 2 月 9 日，靈感來自於「スーツ交通」頻道的美佐島站相關視頻。本未想公開此文，卻又覺得這種事值得被更多人了解，便終於本文提及的此次調圖實施當天發表在此。&lt;br&gt;我想鐵道不僅是一種交通手段，更是時代與技術的折射，每年的調圖也都反映着各個地區一年來的變化，而這篇短文所要展現的變化相信您讀完就能體會到了。&lt;br&gt;不論如何，希望您能喜歡。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;這裏是北越急行北北線美佐島站。&lt;/p&gt;
-&lt;p&gt;完全密閉的候車室顯得有些壓抑。不鏽鋼的兩塊常閉式電動門反射着天花板上熒光燈冷冽的光，門上挖出的玻璃窗口用鋼絲加固着，靠近站台的部分自上而下都明顯地呈現出曾經沾染的水漬。幾塊從金屬中露出的混凝土牆壁顯示着自己最原始的灰白色，一些儀器箱和管線被螺栓固定其上。&lt;/p&gt;
-&lt;p&gt;大多數都是無人站乘車指南的各種貼紙略微帶來了些安心感，其中還有些手寫字跡和插圖。夾雜其間的些許幽默似乎有些溫情感，但又在如此環境之中顯得十分不協調。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="虛構" scheme="https://copy-alcide.github.io/categories/%E8%99%9B%E6%A7%8B/"/>
-    
-    <category term="短篇" scheme="https://copy-alcide.github.io/categories/%E8%99%9B%E6%A7%8B/%E7%9F%AD%E7%AF%87/"/>
-    
-    
-    <category term="虛構" scheme="https://copy-alcide.github.io/tags/%E8%99%9B%E6%A7%8B/"/>
-    
-    <category term="鐵道" scheme="https://copy-alcide.github.io/tags/%E9%90%B5%E9%81%93/"/>
     
   </entry>
   
