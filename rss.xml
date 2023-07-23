@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-06-23T09:02:49.914Z</updated>
+  <updated>2023-07-23T04:06:08.804Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日（2023.07）</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230723/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230723/</id>
+    <published>2023-07-23T03:59:53.000Z</published>
+    <updated>2023-07-23T04:06:08.804Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230723.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230723.png"></p><p>「文年文月文日」嗎……</p><p>也沒什麼特別的東西，單純普通地做了張圖。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230723.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230723.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;「文年文月文日」嗎……&lt;/p&gt;
+&lt;p&gt;也沒什麼特別的東西，單純普通地做了張圖。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+  </entry>
   
   <entry>
     <title>MMD 靜畫 | 每月 23 文之日（2023.06）</title>
@@ -37,11 +64,11 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -64,11 +91,11 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
   </entry>
   
@@ -118,38 +145,11 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 每月 23 文之日（2023.03）</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230323/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230323/</id>
-    <published>2023-03-22T16:04:01.000Z</published>
-    <updated>2023-04-22T16:30:29.685Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230323.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230323.png"></p><p>第一次嘗試這種更加 modern 風格的圖，個人來說還是很喜歡的。</p><p>相對來說模型素材就難找不少了，但是還是希望以後能多做點這種圖。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">追憶の機械人形 洋菓子＆飲料セット</span><br><span class="line">にれぎる ガラスブイ風照明セット</span><br><span class="line">一護牛乳 カフェ風ステージ</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">そぼろ  発光エフェクト AutoLuminous</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230323.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230323.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;第一次嘗試這種更加 modern 風格的圖，個人來說還是很喜歡的。&lt;/p&gt;
-&lt;p&gt;相對來說模型素材就難找不少了，但是還是希望以後能多做點這種圖。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
   </entry>
   
