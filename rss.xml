@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-09-22T16:03:01.038Z</updated>
+  <updated>2023-10-23T02:09:55.762Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 每月 23 文之日（2023.10）</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20231023/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20231023/</id>
+    <published>2023-10-23T01:58:03.000Z</published>
+    <updated>2023-10-23T02:09:55.762Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231023.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231023.png"></p><p>再次嘗試了一下不同風格。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">追憶の機械人形 洋菓子＆飲料セット</span><br><span class="line">一護牛乳 カフェ風ステージ</span><br><span class="line">31040 MMD用【桜の木(太）】</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231023.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231023.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;再次嘗試了一下不同風格。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>MMD 靜畫 | 每月 23 文之日（2023.09）</title>
@@ -107,35 +133,6 @@
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230723.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230723.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;「文年文月文日」嗎……&lt;/p&gt;
 &lt;p&gt;也沒什麼特別的東西，單純普通地做了張圖。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 每月 23 文之日（2023.06）</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230623/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230623/</id>
-    <published>2023-06-23T07:34:48.000Z</published>
-    <updated>2023-06-23T09:02:49.914Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png"></p><p>怎麼說呢……本來確實想着是在新機上做這張圖的，但是似乎是由於 Zen 4 處理器產能出現了問題，預計發貨時間直接被推到了 21 號，情急之下直接選擇了採用舊方式完成這張圖。</p><p>最終新機器直接在 18 號就到了我的手上，當然這就是後話了。</p><p>所以……這個才是舊機的最後一張靜畫。</p><p>不論如何新機總算是拿到了，這幾天用着很舒服，希望能幫助我產出更多不同的作品吧。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">モノゾフ モブメガネ2</span><br><span class="line">とりそば インテリア用古書セット</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230623.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;怎麼說呢……本來確實想着是在新機上做這張圖的，但是似乎是由於 Zen 4 處理器產能出現了問題，預計發貨時間直接被推到了 21 號，情急之下直接選擇了採用舊方式完成這張圖。&lt;/p&gt;
-&lt;p&gt;最終新機器直接在 18 號就到了我的手上，當然這就是後話了。&lt;/p&gt;
-&lt;p&gt;所以……這個才是舊機的最後一張靜畫。&lt;/p&gt;
-&lt;p&gt;不論如何新機總算是拿到了，這幾天用着很舒服，希望能幫助我產出更多不同的作品吧。&lt;/p&gt;</summary>
     
     
     
