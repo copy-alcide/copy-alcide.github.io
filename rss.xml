@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2023-11-25T17:40:00.842Z</updated>
+  <updated>2023-12-08T12:42:00.731Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 2023.12 合集</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-202312All/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-202312All/</id>
+    <published>2023-12-08T12:39:22.000Z</published>
+    <updated>2023-12-08T12:42:00.731Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231208.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231208.png"></p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">キサノキ式キハ53</span><br><span class="line">布袋ミクP POISON</span><br><span class="line">てんぽく MMD鉄道モデル「雨晴っぽい駅ステージ」</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">ビームマンP 多光源エフェクト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231208.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20231208.png&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+  </entry>
   
   <entry>
     <title>攝鐵 | 探索機位 - 玉蘭大道跨鐵路橋</title>
@@ -60,9 +83,9 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
@@ -115,36 +138,9 @@
     <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
     
     
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
     <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 每月 23 文之日（2023.09）</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230923/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2023/MMDPic-20230923/</id>
-    <published>2023-09-22T16:00:06.000Z</published>
-    <updated>2023-09-22T16:03:01.038Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230923.png&default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230923.png"></p><p>第一次在學校中做 MMD，也許也算是一種新的開始吧。</p><p>一直沒太搞明白眼鏡的玻璃材質該怎麽處理比較好，目前還是先用這種方案。</p><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">モノゾフ モブメガネ2</span><br><span class="line">ところてん36 MikuMikuDance用モデル：万年筆と小物セット</span><br><span class="line">Zippo 文庫本と新書本のセット</span><br><span class="line">ケロリン町3.0 for MMDセット BTA(Kelorin Jo)</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">ビームマンP 多光源エフェクト</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230923.png&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2023/Aya_20230923.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;第一次在學校中做 MMD，也許也算是一種新的開始吧。&lt;/p&gt;
-&lt;p&gt;一直沒太搞明白眼鏡的玻璃材質該怎麽處理比較好，目前還是先用這種方案。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
     <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
     
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
