@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2024-12-18T13:38:40.000Z</updated>
+  <updated>2024-12-18T13:43:40.000Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://copy-alcide.github.io/MMDPic/2024/MMDPic-202412All/"/>
     <id>https://copy-alcide.github.io/MMDPic/2024/MMDPic-202412All/</id>
     <published>2024-12-02T16:02:05.000Z</published>
-    <updated>2024-12-18T13:38:40.000Z</updated>
+    <updated>2024-12-18T13:43:40.000Z</updated>
     
     <content type="html"><![CDATA[<img src="../../../post-images/MMDPic-2024/Miko_20241218.jpg" width="50%" height="auto"><span id="more"></span><img src="../../../post-images/MMDPic-2024/Ringo_20241211.jpg" width="50%" height="auto"><img src="../../../post-images/MMDPic-2024/Aya_20241203.jpg" width="50%" height="auto"><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.1.00 Rev.A</span><br><span class="line">ニクムニ 「鈴瑚」ver1.14b</span><br><span class="line">宝改 MikuMikuDance用　東方Project　豊聡耳神子改変モデル</span><br><span class="line">ケロリン町3.0 for MMDセット BTA(Kelorin Jo)</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">おたもん お手軽にトーン補正フィルタ v0.7</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">MARUSU 肌色 ５セット</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br><span class="line">GIMP 2.10.38</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -40,6 +40,8 @@
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="鈴瑚" scheme="https://copy-alcide.github.io/tags/%E9%88%B4%E7%91%9A/"/>
+    
+    <category term="豐聰耳神子" scheme="https://copy-alcide.github.io/tags/%E8%B1%90%E8%81%B0%E8%80%B3%E7%A5%9E%E5%AD%90/"/>
     
   </entry>
   
