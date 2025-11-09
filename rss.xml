@@ -6,7 +6,7 @@
   <link href="https://copy-alcide.github.io/rss.xml" rel="self"/>
   
   <link href="https://copy-alcide.github.io/"/>
-  <updated>2025-10-29T06:52:00.000Z</updated>
+  <updated>2025-11-09T11:20:28.000Z</updated>
   <id>https://copy-alcide.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MMD 靜畫 | 2025.11 合集</title>
+    <link href="https://copy-alcide.github.io/MMDPic/2025/MMDPic-202511All/"/>
+    <id>https://copy-alcide.github.io/MMDPic/2025/MMDPic-202511All/</id>
+    <published>2025-11-09T11:19:00.000Z</published>
+    <updated>2025-11-09T11:20:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="../../../post-images/MMDPic-2025/Kogasa_20251109.jpg" width="45%" height="auto"><span id="more"></span><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">ShiniNet MikuMikuDance用　東方Project 多々良小傘モデル Ver1.0</span><br><span class="line">鯖缶 人里</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ましまし msPowerOverlay</span><br><span class="line">P.I.P PostMultiShadowToon</span><br><span class="line">P.I.P PostAlphaMask</span><br><span class="line">P.I.P ポスト前髪影</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">ikeno RedialC 色調補正するだけのエフェクト</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">ましまし ray-mmd用の起毛マテリアル01「極短毛」</span><br><span class="line">MARUSU 肌色 ５セット</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br><span class="line">GIMP 3.0.4</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;img src=&quot;../../../post-images/MMDPic-2025/Kogasa_20251109.jpg&quot; width=&quot;45%&quot; height=&quot;auto&quot;&gt;</summary>
+    
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
+    
+    
+    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
+    
+    <category term="東方Project" scheme="https://copy-alcide.github.io/tags/%E6%9D%B1%E6%96%B9Project/"/>
+    
+    <category term="多多良小傘" scheme="https://copy-alcide.github.io/tags/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E5%82%98/"/>
+    
+  </entry>
   
   <entry>
     <title>MMD 靜畫 | 2025.10 合集</title>
@@ -123,43 +148,6 @@
     <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
     
     <category term="姬海棠果" scheme="https://copy-alcide.github.io/tags/%E5%A7%AC%E6%B5%B7%E6%A3%A0%E6%9E%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MMD 靜畫 | 2025.06 合集</title>
-    <link href="https://copy-alcide.github.io/MMDPic/2025/MMDPic-202506All/"/>
-    <id>https://copy-alcide.github.io/MMDPic/2025/MMDPic-202506All/</id>
-    <published>2025-06-01T01:29:18.000Z</published>
-    <updated>2025-06-26T08:59:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2025/Cirno_20250601.jpg&default=https://copy-alcide.github.io/post-images/MMDPic-2025/Cirno_20250601.jpg"></p><span id="more"></span><img src="../../../post-images/MMDPic-2025/Momiji_20250611.jpg" width="45%" height="auto"><img src="../../../post-images/MMDPic-2025/Hina_20250613.jpg" width="45%" height="auto"><img src="../../../post-images/MMDPic-2025/Raiko_20250613.jpg" width="45%" height="auto"><img src="../../../post-images/MMDPic-2025/Nue_20250616.jpg" width="45%" height="auto"><img src="../../../post-images/MMDPic-2025/Aya_20250623.jpg" width="45%" height="auto"><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2025/Kogasa_20250626.jpg&default=https://copy-alcide.github.io/post-images/MMDPic-2025/Kogasa_20250626.jpg"></p><p><img src="https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2025/Sekibanki_20250626.jpg&default=https://copy-alcide.github.io/post-images/MMDPic-2025/Sekibanki_20250626.jpg"></p><figure class="highlight plaintext"><figcaption><span>Text</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line">借物表</span><br><span class="line">模型：</span><br><span class="line">追憶の機械人形 チルノ</span><br><span class="line">鯖缶 人里</span><br><span class="line">ときり MikuMikuDance用　東方Project アールビット＆Kome-ken式改変「犬走椛」モデルデータ【更新1】</span><br><span class="line">na7_mmd 柔軟剤プラグイン_v017</span><br><span class="line">めがね えび天ぷら</span><br><span class="line">雪萱 鍵山雛</span><br><span class="line">NuKasa 柱状節理の沢</span><br><span class="line">schwarz 堀川雷鼓</span><br><span class="line">ニクムニ 「封獣ぬえ」ver1.60a</span><br><span class="line">宝改 MikuMikuDance用　東方Project　射命丸文改変モデル</span><br><span class="line">アールビット MikuMikuDance用　東方Project 「射命丸文」モデルデータ Ver.1.00 Rev.A</span><br><span class="line">ShiniNet MikuMikuDance用　東方Project 多々良小傘モデル Ver1.0</span><br><span class="line">天コロ 赤蛮奇</span><br><span class="line">NuKasa 田畑のある山間の秋</span><br><span class="line">渲染：</span><br><span class="line">Rui Ray-MMD</span><br><span class="line">極北P dPostPointLight_v1.00</span><br><span class="line">そぼろ 面光源エフェクト PanelLight</span><br><span class="line">ましまし msPowerOverlay</span><br><span class="line">P.I.P PostAlphaMask</span><br><span class="line">P.I.P ポスト前髪影</span><br><span class="line">ikeno ikBokeh_v020a</span><br><span class="line">そぼろ MikuMikuEffect用ディフュージョンフィルタ</span><br><span class="line">RedialC Toon_RC</span><br><span class="line">世界最弱のサーモントラウト RayMMD用のマテリアル24種類</span><br><span class="line">MARUSU 肌色 ５セット</span><br><span class="line">軟件：</span><br><span class="line">MMM ver 1.2.9.2</span><br><span class="line">MMD ver 9.26</span><br><span class="line">GIMP 3.0.2-1</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://wsrv.nl/?url=https://copy-alcide.github.io/post-images/MMDPic-2025/Cirno_20250601.jpg&amp;default=https://copy-alcide.github.io/post-images/MMDPic-2025/Cirno_20250601.jpg&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/categories/MMD/"/>
-    
-    
-    <category term="MMD" scheme="https://copy-alcide.github.io/tags/MMD/"/>
-    
-    <category term="射命丸文" scheme="https://copy-alcide.github.io/tags/%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87/"/>
-    
-    <category term="犬走椛" scheme="https://copy-alcide.github.io/tags/%E7%8A%AC%E8%B5%B0%E6%A4%9B/"/>
-    
-    <category term="琪露諾" scheme="https://copy-alcide.github.io/tags/%E7%90%AA%E9%9C%B2%E8%AB%BE/"/>
-    
-    <category term="赤蠻奇" scheme="https://copy-alcide.github.io/tags/%E8%B5%A4%E8%A0%BB%E5%A5%87/"/>
-    
-    <category term="鍵山雛" scheme="https://copy-alcide.github.io/tags/%E9%8D%B5%E5%B1%B1%E9%9B%9B/"/>
-    
-    <category term="多多良小傘" scheme="https://copy-alcide.github.io/tags/%E5%A4%9A%E5%A4%9A%E8%89%AF%E5%B0%8F%E5%82%98/"/>
-    
-    <category term="堀川雷鼓" scheme="https://copy-alcide.github.io/tags/%E5%A0%80%E5%B7%9D%E9%9B%B7%E9%BC%93/"/>
-    
-    <category term="封獸鵺" scheme="https://copy-alcide.github.io/tags/%E5%B0%81%E7%8D%B8%E9%B5%BA/"/>
     
   </entry>
   
